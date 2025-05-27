@@ -5,6 +5,10 @@ languageCode = 'en-us'
 defaultContentLanguage = "en"
 enableEmoji = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   author = "Jian Fu"
   info = ["Father", "Surfskater", "Guitar Player"]
