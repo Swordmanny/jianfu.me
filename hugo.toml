@@ -12,6 +12,7 @@ enableEmoji = true
 [params]
   author = "Jian Fu"
   info = ["Father", "Surfskater", "Guitar Player"]
+  colorscheme = "auto"
 
 [[menu.main]]
   name = "About"
