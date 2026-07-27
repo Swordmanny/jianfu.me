@@ -1,5 +1,5 @@
 baseURL = 'https://jianfu.me/'
-title = 'Jian Fu - My Sweet Home'
+title = 'Jian Fu - My personal space'
 theme = 'hugo-coder'
 languageCode = 'en-us'
 defaultContentLanguage = "en"
